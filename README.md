@@ -1,2 +1,2 @@
 # VueJsBaseNoNode
-Projeto contendo Base de um projeto node utilizando a biblioteca Vuetify sem usar NodeJs
+Projeto contendo Base de um projeto VueJs utilizando a biblioteca Vuetify sem usar NodeJs
